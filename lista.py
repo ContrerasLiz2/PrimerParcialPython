@@ -4,8 +4,8 @@ colors =["red","green","blue"]
 numebers_list = list((1,2,3,4))
 #print (type(numebers_list))
 
-#r= list (range(1,100))
-#print(r)
+r= list (range(1,100))
+print(r)
 
 
 #Para crear una lista 
@@ -23,5 +23,5 @@ numebers_list = list((1,2,3,4))
 #colors.append("violet") #AGregar colors 
 #print (colors)
 
-colors.extend("violent","yello")
-print(colors)
+#colors.extend("violent","yello")
+#print(colors)
